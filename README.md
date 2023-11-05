@@ -6,13 +6,13 @@ This is the code for AdvMed.
 
 The following are the packages and their versions needed to run the code
 
-`torch - 2.1.0`
-`torchvision - 0.16`
-`cleverhans - 4.0`
-`captum`
-`matplotlib`
-`pandas`
-`numpy`
+* `torch - 2.1.0`
+* `torchvision - 0.16`
+* `cleverhans - 4.0`
+* `captum`
+* `matplotlib`
+* `pandas`
+* `numpy`
 
 ## Download Datasets
 
