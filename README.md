@@ -1,6 +1,6 @@
 # AdvMed: Detecting Adversarial Attacks in Medical Deep Learning Systems
 
-This is the code for AdvMed.
+This is the repository for AdvMed, which was accepted to the International Symposium on Biomedical Imaging (ISBI) 2024 and the International Science and Engineering Fair (ISEF) 2024.
 
 ## Dependencies
 
